@@ -22,7 +22,7 @@ string StrReverseEx(string str, bool revDigits = false, DWORD Attributes = 0)
 
 void SetConsoleFont(const wchar_t *fontname, int fontsizeY)
 {
-  // set console font, not in use (but you can't use if you want)
+  // set console font, not in use (but you can use it if you want)
 }
 ```
 
